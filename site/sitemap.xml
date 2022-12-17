@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://example.com/dash/</loc>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://example.com/data/</loc>
          <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
@@ -21,7 +26,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://example.com/model/</loc>
+         <loc>http://example.com/feature_selection/</loc>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://example.com/modellogi/</loc>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://example.com/modelrf/</loc>
          <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
