@@ -1,6 +1,9 @@
 # Project Website:
 https://frankliu717.github.io/314website/
 
+# Team Member
+Xiaoyan Zheng, Zihan Cao, Hongrui Liu, Eric Liu
+
 # docs
 The file where we put our source codes.
 
