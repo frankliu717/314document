@@ -3,10 +3,10 @@ site_url: http://example.com/
 nav:
     - Project Overview: index.md
     - Data Overview: data.md
-    - preprocess demo code: preprocess.ipynb
-    - eda: visualization.ipynb
-    - Data Base: database.ipynb
-    - Model: model.ipynb
+#     - preprocess demo code: preprocess.ipynb
+#     - eda: visualization.ipynb
+#     - Data Base: database.ipynb
+#     - Model: model.ipynb
     - Kaggle Competition: Kaggle Competition.md
 
 plugins:
